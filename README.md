@@ -1,2 +1,3 @@
 # MosaicHub
-A community for creative and productive minds.
+
+🌟 A community for creative and productive minds.
